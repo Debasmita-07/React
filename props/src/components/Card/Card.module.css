@@ -1,0 +1,21 @@
+.card{
+  background-color: rgb(211, 234, 255);
+  width: 300px;
+  text-align: center;
+  padding: 30px 10px;
+  border-radius: 20px;
+  border: 1px dashed rgb(0, 135, 253);
+}
+
+.card h1{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.card button{
+  color: #fff;
+  background-color: rgb(0, 135, 253);
+  border: none;
+  padding: 8px 20px;
+  border-radius: 16px;
+}
